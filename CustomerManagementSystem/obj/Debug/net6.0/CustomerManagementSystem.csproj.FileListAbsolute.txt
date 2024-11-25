@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\CustomerManagementSystem\obj\Debug\net6.0\CustomerManagementSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CustomerManagementSystem\obj\Debug\net6.0\CustomerManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CustomerManagementSystem\obj\Debug\net6.0\CustomerManagementSystem.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CustomerManagementSystem\obj\Debug\net6.0\CustomerManagementSystem.AssemblyInfo.cs
+C:\Users\HP\Desktop\CustomerManagementSystem\obj\Debug\net6.0\CustomerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CustomerManagementSystem\obj\Debug\net6.0\CustomerManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\CustomerManagementSystem\obj\Debug\net6.0\CustomerManagementSystem.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\CustomerManagementSystem\obj\Debug\net6.0\CustomerManagementSystem.RazorAssemblyInfo.cs
